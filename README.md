@@ -1,4 +1,4 @@
-# PAKE: A command line tool for Password-authenticated key exchange
+# pakecli: A command line tool for Password-authenticated key exchange
 
 ## Options
 ```
