@@ -5,7 +5,7 @@ import time
 
 from libnum import invmod
 
-class ClientSpace:
+class jpakeClient:
     def __init__(self, p, g, secret, salt):
         self.p = p
         self.g = g

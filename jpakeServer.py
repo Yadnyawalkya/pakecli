@@ -5,7 +5,7 @@ import time
 
 from libnum import invmod
 
-class ServerSpace:
+class jpakeServer:
     def __init__(self, p, g, secret, salt):
         self.p = p
         self.g = g
